@@ -38,7 +38,7 @@ else
 		echo 'fatalError';
 else
 	echo 'false';
-echo $result;  
+//echo $result;  
 curl_close($ch);
 
 ?>
