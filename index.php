@@ -9,8 +9,8 @@ $viewState = $divs->value;
 $viewState = urlencode($viewState);
 
 //Credentials
-$username="0905cs131019";
-$password="!@aman12"; 
+$username="************";
+$password="****"; 
 
 
 //Curl Header
